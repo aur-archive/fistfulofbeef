@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Fistful of beef
+GenericName=Bull Game
+Exec=fistfulofbeef
+Icon=/usr/share/pixmaps/fistfulofbeef
+Categories=Game;ArcadeGame
